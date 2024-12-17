@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryfrauddetection",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d62039a-e52d-4c9b-bb69-7ed67f50b59e",
+		"tenantId": "3bd72a86-a8ea-44a6-a899-f3cccbedf027"
+	}
+}
